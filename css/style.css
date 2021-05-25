@@ -1,0 +1,18 @@
+header{
+  background-color: green;
+  font-size: 36px;
+  color: blue;
+}
+ol, ul{
+  background-color: black;
+  color: grey;
+  font-size: 25px;
+  list-style-type: none;
+  margin: 20px 10px;
+}
+
+li{
+  background-color: yellow;
+  display: inline-block;
+  margin: 10px;
+}
